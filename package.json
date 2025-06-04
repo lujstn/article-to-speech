@@ -15,7 +15,7 @@
     "MP3 conversion",
     "audio generation"
   ],
-  "author": "lucas johnston <developing@lucasco.de>",
+  "author": "Lucas Johnston Kurilov <code@lucasco.de> (https://lujstn.com, @lujstn)",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.7",
